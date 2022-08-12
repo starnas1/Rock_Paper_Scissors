@@ -1,1 +1,1 @@
-Rock Pape Scissors
+Rock Paper Scissors
